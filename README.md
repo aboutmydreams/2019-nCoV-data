@@ -46,7 +46,7 @@ wuhan2020： [[Github](https://github.com/wuhan2020/wuhan2020)] [[医院](https:
 ### 相关论文
 
 * [*The incubation period of 2019-nCoV infections among travellers from Wuhan, China*](https://www.medrxiv.org/content/10.1101/2020.01.27.20018986v1.full.pdf)(2020-01-27)
-  * 使用旅行历史记录和50在武汉以外地区发现的34例确诊病例的症状发作，我们估计51平均潜伏期为5.8（4.6 – 7.9，95％CI）天，范围从1.3到11.3天52（2.5％至97.5％）
+  * 根据武汉市以外发现的34例确诊病例的旅行史和症状发作，我们估计平均潜伏期为5.8（4.6 – 7.9，95％CI）天，范围为1.3至11.3天（2.5％至97.5％））。
 
 * [*Potential for global spread of a novel coronavirus from China*](https://academic.oup.com/jtm/advance-article/doi/10.1093/jtm/taaa011/5716260) (2020-01-27)
   * R将缅甸，柬埔寨，印度，印度尼西亚，菲律宾列为相对脆弱的国家。
@@ -57,7 +57,8 @@ wuhan2020： [[Github](https://github.com/wuhan2020/wuhan2020)] [[医院](https:
   * __Self-sustaining human-to-human spread is already present in all major Chinese cities__
 
 * [*Pattern of early human-to-human transmission of Wuhan 2019-nCoV*](https://raw.githubusercontent.com/jriou/wcov/master/manuscript_v2.pdf)(2020-01-24)
-  * __We found the basic reproduction number, R0, to be around 2.2 (90% high density interval 1.4–3.8), indicating the potential for sustained human-to-human transmission. Transmission characteristics appear to be of similar magnitude to [severe acute respiratory syndrome-related coronavirus (SARS-CoV)](https://en.wikipedia.org/wiki/Severe_acute_respiratory_syndrome) and the [1918 pandemic influenza](https://en.wikipedia.org/wiki/1918_flu_pandemic).__
+  * 我们发现基本繁殖数R0约为2.2（90％高密度区间1.4-3.8），这表明人与人之间持续传播的潜力。
+传播特征似乎与[严重的急性呼吸综合征相关冠状病毒（SARS-CoV）](https://en.wikipedia.org/wiki/Severe_acute_respiratory_syndrome)和[1918年大流行性流感相似](https://en.wikipedia.org/wiki/1918_flu_pandemic)。
 * [*Novel coronavirus 2019-nCoV: early estimation of epidemiological parameters and epidemic predictions*](https://www.medrxiv.org/content/10.1101/2020.01.23.20018549v1.full.pdf)(2020-01-23)
   * __Only 5% of cases are likely reported in official figures of confirmed cases.__
 
