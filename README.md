@@ -31,7 +31,7 @@ wuhan2020： [[Github](https://github.com/wuhan2020/wuhan2020)] [[医院](https:
 
 ### 4、人口流动
 
-百度人口迁徙： [选择迁出地为需要的城市与日期](https://qianxi.baidu.com/)[[Api1](https://huiyan.baidu.com/migration/historycurve.jsonp?dt=city&id=420100&type=move_out&startDate=20200101&endDate=20200125)，[Api2](https://huiyan.baidu.com/migration/cityrank.jsonp?dt=city&id=420100&type=move_out&date=20200125)]
+百度人口迁徙： [选择迁出地为需要的城市与日期](https://qianxi.baidu.com/)[[迁移规模指数 Api1](https://huiyan.baidu.com/migration/historycurve.jsonp?dt=city&id=420100&type=move_out&startDate=20200101&endDate=20200125)，[人口流出 Api2](https://huiyan.baidu.com/migration/cityrank.jsonp?dt=city&id=420100&type=move_out&date=20200125)]
 
 [2019-nCoV 新型肺炎确诊患者相同行程查询工具 V1.2](http://2019ncov.nosugartech.com/?from=timeline&isappinstalled=0)
 
