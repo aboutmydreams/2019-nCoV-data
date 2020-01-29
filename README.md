@@ -46,13 +46,10 @@ wuhan2020： [[Github](https://github.com/wuhan2020/wuhan2020)] [[医院](https:
 ### 相关论文
 
 * [*The incubation period of 2019-nCoV infections among travellers from Wuhan, China*](https://www.medrxiv.org/content/10.1101/2020.01.27.20018986v1.full.pdf)(2020-01-27)
-  * Using the travel history and
-symptom onset of 34 confirmed cases that were detected outside Wuhan, we estimate the
-mean incubation period to be 5.8 (4.6 – 7.9, 95% CI) days, ranging from 1.3 to 11.3 days
-(2.5th to 97.5th percentile).
+  * 使用旅行历史记录和50在武汉以外地区发现的34例确诊病例的症状发作，我们估计51平均潜伏期为5.8（4.6 – 7.9，95％CI）天，范围从1.3到11.3天52（2.5％至97.5％）
 
 * [*Potential for global spread of a novel coronavirus from China*](https://academic.oup.com/jtm/advance-article/doi/10.1093/jtm/taaa011/5716260) (2020-01-27)
-  * Ranks Burma, Cambodia, India, Indonesia, Philippines as relatively vulnerable.
+  * R将缅甸，柬埔寨，印度，印度尼西亚，菲律宾列为相对脆弱的国家。
 
 * [*Real-time nowcast and forecast on the extent of the Wuhan CoV outbreak, domestic and international spread*](https://www.med.hku.hk/f/news/3549/7418/Wuhan-coronavirus-outbreak_AN-UPDATE_20200127.pdf) (2020-01-27)
   * __Hong Kong University professors estimate 43,590 infections as of 2020-01-25__. (ie. ~20x 'confirmed cases')
