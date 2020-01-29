@@ -45,6 +45,17 @@ wuhan2020： [[Github](https://github.com/wuhan2020/wuhan2020)] [[医院](https:
 
 ### 相关论文
 
+ * *[Potential for global spread of a novel coronavirus from China ](https://academic.oup.com/jtm/advance-article/doi/10.1093/jtm/taaa011/5716260)* (2020-01-27)
+   * Ranks Burma, Cambodia, India, Indonesia, Philippines as relatively vulnerable.
+ * *[Real-time nowcast and forecast on the extent of the Wuhan CoV outbreak, domestic and international spread](https://www.med.hku.hk/f/news/3549/7418/Wuhan-coronavirus-outbreak_AN-UPDATE_20200127.pdf)* (2020-01-27)
+   * __Hong Kong University professors estimate 43,590 infections as of 2020-01-25__. (ie. ~20x 'confirmed cases')
+   * __2019-nCoV may be about to become a global epidemic__
+   * __Self-sustaining human-to-human spread is already present in all major Chinese cities__
+ * *[Pattern of early human-to-human transmission of Wuhan 2019-nCoV](https://raw.githubusercontent.com/jriou/wcov/master/manuscript_v2.pdf)* (2020-01-24)
+   * __We found the basic reproduction number, R0, to be around 2.2 (90% high density interval 1.4–3.8), indicating the potential for sustained human-to-human transmission. Transmission characteristics appear to be of similar magnitude to [severe acute respiratory syndrome-related coronavirus (SARS-CoV)](https://en.wikipedia.org/wiki/Severe_acute_respiratory_syndrome) and the [1918 pandemic influenza](https://en.wikipedia.org/wiki/1918_flu_pandemic).__
+ * *[Novel coronavirus 2019-nCoV: early estimation of epidemiological parameters and epidemic predictions](https://www.medrxiv.org/content/10.1101/2020.01.23.20018549v1.full.pdf)* (2020-01-23)
+   * __Only 5% of cases are likely reported in official figures of confirmed cases.__
+
 ## 三、其他公益项目
 
 [湖北医疗物资需求信息平台](https://onwh.51rry.com/#/)
