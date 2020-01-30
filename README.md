@@ -17,6 +17,8 @@
 
 约翰·霍普金斯大学： [全球疫情可视化](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)[[相关说明](https://systems.jhu.edu/research/public-health/ncov/)]
 
+[https://thewuhanvirus.com/](https://thewuhanvirus.com/)
+
 ### 2、疫情变化
 
 2019-wuhan-coronavirus-data： [[github](https://github.com/globalcitizen/2019-wuhan-coronavirus-data)][[Direct link to latest data](https://raw.githubusercontent.com/globalcitizen/2019-wuhan-coronavirus-data/master/data-sources/dxy/data/20200129-094142-dxy-2019ncov-data.csv)]
