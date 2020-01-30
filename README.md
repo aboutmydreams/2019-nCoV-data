@@ -65,3 +65,5 @@ wuhan2020： [[Github](https://github.com/wuhan2020/wuhan2020)] [[医院](https:
 ## 三、其他公益项目
 
 [湖北医疗物资需求信息平台](https://onwh.51rry.com/#/)
+
+[新冠肺炎物资公益平台](http://rescue.sitiits.com:9966/visur/#/)
