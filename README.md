@@ -43,7 +43,7 @@ wuhan2020： [[Github](https://github.com/wuhan2020/wuhan2020)] [[医院](https:
 
 ## 二、预测与研究
 
-### 相关论文
+### 最新论文
 
 * [*The incubation period of 2019-nCoV infections among travellers from Wuhan, China*](https://www.medrxiv.org/content/10.1101/2020.01.27.20018986v1.full.pdf)(2020-01-27)
   * 根据武汉市以外发现的34例确诊病例的旅行史和症状发作，我们估计平均潜伏期为5.8（4.6 – 7.9，95％CI）天，范围为1.3至11.3天（2.5％至97.5％））。
@@ -61,6 +61,12 @@ wuhan2020： [[Github](https://github.com/wuhan2020/wuhan2020)] [[医院](https:
 传播特征似乎与[严重的急性呼吸综合征相关冠状病毒（SARS-CoV）](https://en.wikipedia.org/wiki/Severe_acute_respiratory_syndrome)和[1918年大流行性流感相似](https://en.wikipedia.org/wiki/1918_flu_pandemic)。
 * [*Novel coronavirus 2019-nCoV: early estimation of epidemiological parameters and epidemic predictions*](https://www.medrxiv.org/content/10.1101/2020.01.23.20018549v1.full.pdf)(2020-01-23)
   * __Only 5% of cases are likely reported in official figures of confirmed cases.__
+
+### 其他论文
+
+[爆发分析：发展中的数据科学，用于告知对新兴病原体的反应](https://royalsocietypublishing.org/doi/pdf/10.1098/rstb.2018.0276)
+
+[表征早期流行病增长的数学模型](https://github.com/aboutmydreams/2019-nCoV-data/../../../../papers/paper_pdf/Mathematical%20models%20to%20characterize%20early%20epidemic%20growth.pdf)
 
 ## 三、其他公益项目
 
