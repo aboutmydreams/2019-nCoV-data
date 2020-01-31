@@ -5,19 +5,21 @@ import medrxiv.get_medrxiv_data as med
 import schedule
 
 
-# 定时任务爬虫
-def tasklist():
+def do_medrxiv_data():
+    print("run!")
     with open("./key.json", 'r') as f:
         keyword = json.loads(f.read())
+    print(keyword)
+    med.get_list(keyword)
 
-    def do_medrxiv_data():
-        print("run!")
-        med.get_list(keyword)
+
+# 定时任务爬虫
+def tasklist():
     # 清空任务
     schedule.clear()
     # 创建一个按秒间隔执行任务
-    schedule.every(1).seconds.do(do_medrxiv_data)
-    schedule.run_pending()
+    schedule.every(1).hours.do(do_medrxiv_data)
+    schedule.run_all()
 
 
 # 网络编程
@@ -31,5 +33,5 @@ def get_paper():
 
 
 if __name__ == '__main__':
-    tasklist()
+    do_medrxiv_data()
     app.run(debug=True)

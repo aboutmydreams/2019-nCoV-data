@@ -21,7 +21,7 @@ def medrxiv_data(keyword: str) -> list:
 
         # 下载
         file_name = "{}.pdf".format(dic["title"])
-        if (file_name not in os.listdir("../paper_pdf")) & (int(dic["time"]) > 20200101):
+        if (file_name not in os.listdir("./paper_pdf")) & (int(dic["time"]) > 20200101):
             pdf_url = dic["link"] + ".full.pdf"
             r = requests.get(pdf_url)
             with open("./paper_pdf/%s" % file_name, 'wb') as f:
