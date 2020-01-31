@@ -5,7 +5,7 @@
 
 ## 一、项目、数据与地址
 
-### 1、疫情实时数据
+### 1、疫情实时数据与动态
 
 丁香园爬虫： [数据源于爬虫，每分钟更新一次，开放给所有有需要的人](http://lab.isaaclin.cn/nCoV/) [[Github](https://github.com/BlankerL/DXY-2019-nCoV-Crawler)]
 
@@ -18,6 +18,8 @@
 约翰·霍普金斯大学： [全球疫情可视化](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)[[相关说明](https://systems.jhu.edu/research/public-health/ncov/)]
 
 [https://thewuhanvirus.com/](https://thewuhanvirus.com/)
+
+[2019-nCoV疫情实时播报🅥 国外转播](http://2019ncov.tk/)
 
 ### 2、疫情变化
 
