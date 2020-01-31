@@ -19,7 +19,7 @@
 
 [https://thewuhanvirus.com/](https://thewuhanvirus.com/)
 
-[2019-nCoV疫情实时播报🅥 国外转播](http://2019ncov.tk/)
+[2019-nCoV疫情实时播报🅥 国外转播](http://2019ncov.tk/)[[github](https://github.com/thegreatjavascript/2019-nCoV-News)]
 
 ### 2、疫情变化
 
