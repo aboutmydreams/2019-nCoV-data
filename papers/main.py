@@ -10,7 +10,9 @@ def do_medrxiv_data():
     with open("./key.json", 'r') as f:
         keyword = json.loads(f.read())
     print(keyword)
-    med.get_list(keyword)
+    data = med.get_list(keyword)
+    with open("./result.json", 'w') as res:
+        json.dump(data, res)
 
 
 # 定时任务爬虫
