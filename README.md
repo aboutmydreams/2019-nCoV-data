@@ -74,6 +74,10 @@ wuhan2020： [[Github](https://github.com/wuhan2020/wuhan2020)] [[医院](https:
 
 [表征早期流行病增长的数学模型](https://github.com/aboutmydreams/2019-nCoV-data/../../../../papers/paper_pdf/Mathematical%20models%20to%20characterize%20early%20epidemic%20growth.pdf)
 
+### 分析文章
+
+[死亡和治愈病例特征分析](https://mp.weixin.qq.com/s/ynLI6td0rK9sNxMfwyVMtg)
+
 ## 三、其他公益项目
 
 [wuhan2020 信息录入](https://wuhan2020.kaiyuanshe.cn/#)[[github](https://github.com/wuhan2020/wuhan2020)]
