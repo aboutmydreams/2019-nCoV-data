@@ -51,6 +51,9 @@ wuhan2020： [[Github](https://github.com/wuhan2020/wuhan2020)] [[医院](https:
 
 ### 最新论文
 
+* [美国2019年新型冠状病毒病例](https://www.nejm.org/doi/full/10.1056/NEJMoa2001191)
+  * 报告描述了在美国确认的首例2019-nCoV感染的流行病学和临床特征。(2020-01-31)
+
 * [*The incubation period of 2019-nCoV infections among travellers from Wuhan, China*](https://www.medrxiv.org/content/10.1101/2020.01.27.20018986v1.full.pdf)(2020-01-27)
   * 根据武汉市以外发现的34例确诊病例的旅行史和症状发作，我们估计平均潜伏期为5.8（4.6 – 7.9，95％CI）天，范围为1.3至11.3天（2.5％至97.5％））。
 
@@ -68,8 +71,7 @@ wuhan2020： [[Github](https://github.com/wuhan2020/wuhan2020)] [[医院](https:
 * [*Novel coronavirus 2019-nCoV: early estimation of epidemiological parameters and epidemic predictions*](https://www.medrxiv.org/content/10.1101/2020.01.23.20018549v1.full.pdf)(2020-01-23)
   * __Only 5% of cases are likely reported in official figures of confirmed cases.__
 
-* [美国2019年新型冠状病毒病例](https://www.nejm.org/doi/full/10.1056/NEJMoa2001191)
-  * 报告描述了在美国确认的首例2019-nCoV感染的流行病学和临床特征。
+
 
 
 ### 其他论文
