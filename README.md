@@ -68,6 +68,10 @@ wuhan2020： [[Github](https://github.com/wuhan2020/wuhan2020)] [[医院](https:
 * [*Novel coronavirus 2019-nCoV: early estimation of epidemiological parameters and epidemic predictions*](https://www.medrxiv.org/content/10.1101/2020.01.23.20018549v1.full.pdf)(2020-01-23)
   * __Only 5% of cases are likely reported in official figures of confirmed cases.__
 
+* [美国2019年新型冠状病毒病例](https://www.nejm.org/doi/full/10.1056/NEJMoa2001191)
+  * 报告描述了在美国确认的首例2019-nCoV感染的流行病学和临床特征。
+
+
 ### 其他论文
 
 [爆发分析：发展中的数据科学，用于告知对新兴病原体的反应](https://royalsocietypublishing.org/doi/pdf/10.1098/rstb.2018.0276)
