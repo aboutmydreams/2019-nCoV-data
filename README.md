@@ -51,8 +51,16 @@ wuhan2020： [[Github](https://github.com/wuhan2020/wuhan2020)] [[医院](https:
 
 ### 最新论文
 
-* [美国2019年新型冠状病毒病例](https://www.nejm.org/doi/full/10.1056/NEJMoa2001191)
-  * 报告描述了在美国确认的首例2019-nCoV感染的流行病学和临床特征。(2020-01-31)
+* [美国2019年新型冠状病毒病例](https://www.nejm.org/doi/full/10.1056/NEJMoa2001191)(2020-01-31)
+  * 报告描述了在美国确认的首例2019-nCoV感染的流行病学和临床特征。
+
+* [Early evaluation of the Wuhan City travel restrictions in response to the 2019 novel coronavirus outbreak](https://www.medrxiv.org/content/10.1101/2020.01.30.20019844v1)(2020-01-30)
+  * 我们发现旅行禁令使从武汉到中国其他城市的nCoV传播速度减慢了2.91天（95％CI：2.54-3.29）。这种延误为建立和加强其他控制措施提供了时间，这些控制措施对于遏制该流行病至关重要。
+
+* [Transmission and epidemiological characteristics of Novel Coronavirus (2019-nCoV)-Infected Pneumonia(NCIP):preliminary evidence obtained in comparison with 2003-SARS](https://www.medrxiv.org/content/10.1101/2020.01.30.20019836v1)
+  * 287例确诊的NCIP病例，年龄在9个月至90岁之间，平均年龄为（42.38±15.97）岁。性别比（男：女）为1.35：1。武汉及其他内陆地区的NCIP患者人数符合Y = 0.7209 x3-11.97x2 + 59.129x（R2 = 0.9858）和Y = 2.2169 x3-39.74 x2 + 158.88x（R2 = 0.9357）
+  * NCIP的病死率低于2003-SARS，治愈率更高。
+  * NCIP患者的年龄主要集中在30-50岁之间（68.29％）
 
 * [*The incubation period of 2019-nCoV infections among travellers from Wuhan, China*](https://www.medrxiv.org/content/10.1101/2020.01.27.20018986v1.full.pdf)(2020-01-27)
   * 根据武汉市以外发现的34例确诊病例的旅行史和症状发作，我们估计平均潜伏期为5.8（4.6 – 7.9，95％CI）天，范围为1.3至11.3天（2.5％至97.5％））。
