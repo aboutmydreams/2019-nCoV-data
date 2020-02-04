@@ -92,7 +92,9 @@ wuhan2020： [[Github](https://github.com/wuhan2020/wuhan2020)] [[医院](https:
 
 [死亡和治愈病例特征分析](https://mp.weixin.qq.com/s/ynLI6td0rK9sNxMfwyVMtg)
 
-[凤凰网数据新闻 推出存在大量无、轻症状感染者](https://mp.weixin.qq.com/s/fUmbs19rSxHmNyMrJxBdmQ)
+* [凤凰网数据新闻](https://mp.weixin.qq.com/s/fUmbs19rSxHmNyMrJxBdmQ)
+  * 从外国撤侨检测开看，可推出存量无、轻症状感染者
+  * 阳性率仍然只有17.42%,流感才是每年冬季疫情的基本底色
 
 ## 三、其他公益项目
 
