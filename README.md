@@ -92,6 +92,8 @@ wuhan2020： [[Github](https://github.com/wuhan2020/wuhan2020)] [[医院](https:
 
 [死亡和治愈病例特征分析](https://mp.weixin.qq.com/s/ynLI6td0rK9sNxMfwyVMtg)
 
+[凤凰网数据新闻 推出存在大量无、轻症状感染者](https://mp.weixin.qq.com/s/fUmbs19rSxHmNyMrJxBdmQ)
+
 ## 三、其他公益项目
 
 [wuhan2020 信息录入](https://wuhan2020.kaiyuanshe.cn/#)[[github](https://github.com/wuhan2020/wuhan2020)]
