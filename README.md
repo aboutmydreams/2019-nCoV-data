@@ -45,6 +45,10 @@ wuhan2020：https://wh.opensource-service.cn/#/ [[Github](https://github.com/wuh
 
 [谷歌文档](https://docs.google.com/spreadsheets/d/1itaohdPiAeniCXNlntNztZ_oRvjh0HsGuJXUJWET008/edit#gid=0)
 
+### 6、红十字会监督
+https://weileizeng.github.io/red-cross/
+[github](https://weileizeng.github.io/red-cross/)
+
 ---
 
 ## 二、预测与研究
