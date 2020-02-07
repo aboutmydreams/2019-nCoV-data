@@ -33,7 +33,7 @@
 
 财新： [依据各地卫健委数据构建的各地新型肺炎定点医院地图](http://datanews.caixin.com/interactive/2020/fever/)
 
-wuhan2020： [[Github](https://github.com/wuhan2020/wuhan2020)] [[医院](https://shimo.im/sheets/k399pHyt6HKvW6xR/MODOC/)]，详情见石墨文档：[[酒店](https://shimo.im/sheets/Hd9C3QytrJK3RWxG/z1rye/)]、[[物流](https://shimo.im/sheets/RTHXp3ghtKXY3GcC/MODOC/)]、[[生产](https://shimo.im/sheets/pchvJ6ddyRHHdXtv/MODOC/)]、[[捐赠](https://shimo.im/sheets/W3gxW6cwkYTDY6DD/)]、[[义诊](https://shimo.im/sheets/JgXjYCJJTRQxJ3GP/MODOC/)]，[[贡献指南](https://github.com/wuhan2020/wuhan2020/blob/master/CONTRIBUTING.md)]。
+wuhan2020：https://wh.opensource-service.cn/#/ [[Github](https://github.com/wuhan2020/wuhan2020)] [[医院](https://shimo.im/sheets/k399pHyt6HKvW6xR/MODOC/)]，详情见石墨文档：[[酒店](https://shimo.im/sheets/Hd9C3QytrJK3RWxG/z1rye/)]、[[物流](https://shimo.im/sheets/RTHXp3ghtKXY3GcC/MODOC/)]、[[生产](https://shimo.im/sheets/pchvJ6ddyRHHdXtv/MODOC/)]、[[捐赠](https://shimo.im/sheets/W3gxW6cwkYTDY6DD/)]、[[义诊](https://shimo.im/sheets/JgXjYCJJTRQxJ3GP/MODOC/)]，[[贡献指南](https://github.com/wuhan2020/wuhan2020/blob/master/CONTRIBUTING.md)]。
 
 ### 4、人口流动
 
